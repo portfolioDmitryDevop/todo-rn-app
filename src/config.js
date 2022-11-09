@@ -1,0 +1,1 @@
+export const URL = 'https://rn-todo-app-f792a-default-rtdb.firebaseio.com/todos.json'
